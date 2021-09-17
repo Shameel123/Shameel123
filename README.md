@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on React / Next / React Native  Projects
+
 🌱 I’m currently learning MERN Stack, Strapi, Django.
+
 📫 How to reach me: https://www.linkedin.com/in/shameeluddin/
 
 <!--

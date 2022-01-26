@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on React / Next / React Native  Projects
+🔭 I’m currently working on React / Next / React Native  Projects and currently mastering MERN Stack
 
-🌱 I’m currently learning MERN Stack, Strapi, Django.
+🌱 I’m deeply enthusiastic towards cybersecurity and stay up to date in the domain.
 
 📫 How to reach me: https://www.linkedin.com/in/shameeluddin/
 

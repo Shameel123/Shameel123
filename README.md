@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shameeluddin/**
 
-- <img src="https://tryhackme-badges.s3.amazonaws.com/portgasDasce.png" alt="TryHackMe">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

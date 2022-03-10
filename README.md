@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shameeluddin/**
 
+- <img src="https://tryhackme-badges.s3.amazonaws.com/portgasDasce.png" alt="TryHackMe">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -22,7 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shameeluddin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shameeluddin_" height="30" width="40" /></a>
+<a href="https://twitter.com/shameeluddin_" target="blank">
+  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shameeluddin_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shameeluddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shameeluddin" height="30" width="40" /></a>
 <a href="https://fb.com/shameelisuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameelisuddin" height="30" width="40" /></a>
 <a href="https://medium.com/@shameeluddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shameeluddin" height="30" width="40" /></a>

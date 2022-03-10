@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shameeluddin/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shameeluddin/](https://www.linkedin.com/in/shameeluddin/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

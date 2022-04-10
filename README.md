@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, This is Shameel Uddin</h1>
-<h3 align="center">Security Enthusiast, eager to learn latest trends of digital world!</h3>
+<h1 align="center">Shameel Uddin</h1>
+<h3 align="center">Tech Enthusiast, eager to learn latest trends of digital world!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shameel123&label=Profile%20views&color=0e75b6&style=flat" alt="shameel123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shameel123" alt="shameel123" /></a> </p>
 
-- 🔭 I’m currently working on **React / Next / React Native Projects and currently mastering MERN Stack**
-
-- 🌱 I’m currently learning **OWASP Top 10**
-
-- 👯 I’m looking to collaborate on **Dev+Security Projects**
+- 🔭 I’m currently working on **JavaScript** related libraries and frameworks, more inclined towards **MERN**.
 
 - 📝 I regularly write articles on [https://shameeluddin.medium.com/](https://shameeluddin.medium.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/shameeluddin/**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shameel123&label=Profile%20views&color=0e75b6&style=flat" alt="shameel123" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

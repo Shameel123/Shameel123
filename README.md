@@ -4,10 +4,10 @@
 
 
 - 🔭 I’m currently working on **JavaScript** related libraries and frameworks, more inclined towards **MERN**.
+- 🔭 I have been focusing on different paradigms of **Azure** and different **Office365** products.
+- 🔭 I'm also much entuhusiastic towards InfoSec and casually spend time on **TryHackMe**
 
-- 📝 I regularly write articles on [https://shameeluddin.medium.com/](https://shameeluddin.medium.com/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/shameeluddin/**
+- 📫 Reach me: **https://www.linkedin.com/in/shameeluddin/**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shameel123&label=Profile%20views&color=0e75b6&style=flat" alt="shameel123" /> </p>
 

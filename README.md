@@ -3,10 +3,8 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript** related libraries and frameworks, more inclined towards **MERN**.
+- 🔭 I’m currently working on **TypeScript** related libraries and frameworks, more inclined towards **MERN** as well as **GraphQL**.
 - 🔭 I have been focusing on different paradigms of **Azure** and different **Office365** products.
-- 🔭 I'm also much entuhusiastic towards InfoSec and casually spend time on **TryHackMe**
-
 - 📫 Reach me: **https://www.linkedin.com/in/shameeluddin/**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shameel123&label=Profile%20views&color=0e75b6&style=flat" alt="shameel123" /> </p>

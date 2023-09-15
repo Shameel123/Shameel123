@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://dev.to/shameel
+[https://dev.to/shameel](https://dev.to/shameel)
 
 <!-- BLOG-POST-LIST:END -->
 

@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **TypeScript** related libraries and frameworks, more inclined towards **MERN** as well as **GraphQL**.
-- 🔭 I have been focusing on different paradigms of **Azure** and different **Office365** products.
+- 🔭 I am trying to prepare tech related YouTube videos [here](https://www.youtube.com/@ShameelUddin123).
 - 📫 Reach me: **https://www.linkedin.com/in/shameeluddin/**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shameel123&label=Profile%20views&color=0e75b6&style=flat" alt="shameel123" /> </p>
